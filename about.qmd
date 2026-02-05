@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-Currently developing my thesis. \
+Currently developing my thesis.
